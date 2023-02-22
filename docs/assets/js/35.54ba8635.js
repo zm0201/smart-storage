@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{337:function(t,n,o){"use strict";o.r(n);o(91);var s={mounted(){this.$router.push("./introduction.html")}},e=o(15),u=Object(e.a)(s,(function(){return(0,this._self._c)("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}})}),[],!1,null,null,null);n.default=u.exports}}]);
